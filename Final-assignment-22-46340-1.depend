@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1714831244 source:d:\compiler\final-assignment-22-46340-1\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+
